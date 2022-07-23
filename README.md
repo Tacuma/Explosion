@@ -1,16 +1,16 @@
-#Explosion
+# Explosion
 
-#Data Structurs/Concepts Used:
+# Data Structurs/Concepts Used:
 Adjacency Matrix, Depth First Graph Traversal
 
-#Output:
+# Output:
 
 https://cloud.githubusercontent.com/assets/2325736/12905923/5ecc34d2-cea9-11e5-8562-c4e49c6076f6.jpg
 
 
 	
 
-####inp.txt
+#### inp.txt
 ##### Each pair of letters represents an edge between two vertices
 
 	A H
@@ -39,8 +39,8 @@ https://cloud.githubusercontent.com/assets/2325736/12905923/5ecc34d2-cea9-11e5-8
     D G
 
 
-#Description:
-####MAINTENANCE  PROJECT.pdf
+# Description:
+#### MAINTENANCE  PROJECT.pdf
 https://github.com/Tacuma/Explosion/files/122505/MAINTENANCE.PROJECT.pdf
 
 
